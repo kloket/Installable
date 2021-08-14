@@ -3,18 +3,19 @@ Repository having all Cybersecurity tools installable
 
 # Reconannaissance
 Below are the tools :
-  -netCraft
-  -Showdan
-  -whoisdomain.com
-  -nwtools.com
+  -netCraft : Anusha
+  -Showdan  : Shashank
+  -whoisdomain.com  : Arvind
+  -nwtools.com   : Rakshith
   
-## People related
+  
+## People related (Suchit)
   -pipl.com
   -inspy.com
   -techspy.com
   -empspy.com
   
-## Website 
+## Website (Preet)
    -webgetextracter
    -ncollector
    -ncollectorstudio
