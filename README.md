@@ -1,6 +1,79 @@
 # Installable
 Repository having all Cybersecurity tools installable
 
+# Reconannaissance
+Below are the tools :
+  -netCraft
+  -Showdan
+  -whoisdomain.com
+  -nwtools.com
+  
+## People related
+  -pipl.com
+  -inspy.com
+  -techspy.com
+  -empspy.com
+  
+## Website 
+   -webgetextracter
+   -ncollector
+   -ncollectorstudio
+   -websiteripper
+   -dextractor
+   -httrack
+   -teleport
+   
+ ## Metadata 
+   -metataganalyzer
+   -analyzemetadata
+   -bananatag
+   
+ ## Email Trackers
+   -readnotify
+   -politeemail
+   -zendeno
+   -didtheyreadit
+   
+ ## Comp intellignce 
+  - edgar database
+  - hoover database
+  - marketwatch
+  - alexa
+  - euro monitor
+  - experian
+ 
+ ## Domain & Subdomain
+  -sublister
+  -
+  
+
+# Footprinting
+   -foca
+   -metasploit
+   -maltego
+   -harvesta
+   -OWASP framework
+   
+
+# Scanning
+  -nmap
+  -networktopologymapper
+  -colasoft
+  -angryip
+  -cyberghost
+  -proxyswitcher
+  -proxyworkbench
+  -megaping
+  -iptools
+  -proxyfy
+  -guardstar
+  -ultrasurf
+  -anonymyser
+
+ 
+  
+
+
 ## 1. MetaSploit
 MetaSplot is Vulnerability Assessment framework. Initial version was in Perl, Later framework was rewritten in Ruby.It is Open source. Available version are MetaSploit Express and MetaSploit Pro. MetaSploit Pro is Rich version. Installation needs user registration using company Email-id (Non public domain based). Registered user receive 14 days trial version.
 
@@ -19,6 +92,11 @@ Type of Software : Trial version
 
 
 ## 3. WireShark
+WireShark is network protocol analyzer. Below are the features supported by WireShark:
+
+
+Installable URL: https://www.wireshark.org/
+
 
 ## 4. NMAP
 
