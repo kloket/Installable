@@ -3,48 +3,50 @@ Repository having all Cybersecurity tools installable
 
 # Reconannaissance
 Below are the tools :
-  -netCraft : Anusha
-  -Showdan  : Shashank
-  -whoisdomain.com  : Arvind
-  -nwtools.com   : Rakshith
+   | Tool | Demo owner  |
+   |------|-------|
+   | netCraft | Anusha |
+  | Showdan  | Shashank |
+  | whoisdomain.com | Arvind |
+  | nwtools.com   | Rakshith |
   
   
 ## People related (Suchit)
-  -pipl.com
-  -inspy.com
-  -techspy.com
-  -empspy.com
+  -pipl.com <br>
+  -inspy.com <br>
+  -techspy.com <br>
+  -empspy.com <br>
   
 ## Website (Preet)
-   -webgetextracter
-   -ncollector
-   -ncollectorstudio
-   -websiteripper
-   -dextractor
-   -httrack
-   -teleport
+   -webgetextracter <br>
+   -ncollector <br>
+   -ncollectorstudio <br>
+   -websiteripper <br>
+   -dextractor <br>
+   -httrack <br>
+   -teleport <br>
    
  ## Metadata 
-   -metataganalyzer
-   -analyzemetadata
-   -bananatag
+   -metataganalyzer <br>
+   -analyzemetadata <br>
+   -bananatag <br>
    
  ## Email Trackers
-   -readnotify
-   -politeemail
-   -zendeno
-   -didtheyreadit
+   -readnotify <br>
+   -politeemail <br>
+   -zendeno <br>
+   -didtheyreadit <br>
    
  ## Comp intellignce 
-  - edgar database
-  - hoover database
-  - marketwatch
-  - alexa
-  - euro monitor
-  - experian
+  - edgar database <br>
+  - hoover database <br>
+  - marketwatch <br>
+  - alexa <br>
+  - euro monitor <br>
+  - experian <br>
  
  ## Domain & Subdomain
-  -sublister
+  -sublister <br>
   -
   
 
